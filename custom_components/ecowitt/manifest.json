@@ -8,6 +8,7 @@
   ],
   "ssdp": [],
   "zeroconf": [],
+  "version": "0.5",
   "homekit": {},
   "dependencies": [],
   "codeowners": [
